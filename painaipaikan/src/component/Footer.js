@@ -7,11 +7,11 @@ const FooterPage = () => {
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
           <MDBCol md="4">
-            <h3 className="title">#ไปเที่ยวกาน</h3>
+            <h3 className="title">#ไปไหนไปกัน</h3>
             <p>
               By  <a href="#!">
-                <strong>Teerayut Saetee </strong>
-              </a> 6035512066
+                <strong>Lalida Ampharat </strong>
+              </a> 0897221429
             </p>
           </MDBCol>
 

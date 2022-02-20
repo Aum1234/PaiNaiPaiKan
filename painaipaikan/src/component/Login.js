@@ -86,7 +86,7 @@ class Login extends Component {
             <MDBNavbar dark expand="md" fixed="top">
               <MDBNavbarBrand>
 
-                <strong className="white-text">ไปเที่ยวกาน</strong>
+                <strong className="white-text">ไปไหนไปกัน</strong>
               </MDBNavbarBrand>
             </MDBNavbar>
           </div>
@@ -106,7 +106,7 @@ class Login extends Component {
                   </h1>
                   <hr className="hr-light" />
                   <h6 className="mb-4">
-                    ยินดีต้อนรับเข้าสู่เว็บไซต์ไปเที่ยวกาน เชิญเข้ามาแชร์ข้อมูลประสบการณ์การท่องเที่ยวในประเทศไทยที่ประทับใจของท่านให้เพื่อน ๆ
+                    ยินดีต้อนรับเข้าสู่เว็บไซต์ไปไหนไปกัน เชิญเข้ามาแชร์ข้อมูลประสบการณ์การท่องเที่ยวที่ประทับใจของท่านให้เพื่อน ๆ
                     ได้รับรู้กันเถอะ
 
                   </h6>

@@ -89,12 +89,12 @@ const PageChange = props => {
                 </h1>
               <hr className='hr-light' />
               <h6 className='mb-4'>
-                เชิญเข้ามาแชร์ข้อมูลประสบการณ์การท่องเที่ยวในประเทศไทย
+                เชิญเข้ามาแชร์ข้อมูลประสบการณ์การท่องเที่ยว
                 ที่ประทับใจของท่านให้เพื่อน ๆ ได้รับรู้กันเถอะ โดยกรอกผ่านฟอร์มนี้ได้เลย
                 </h6>
               <img
                 className="img-fluid rounded-circle hoverable"
-                src="https://www.tatreviewmagazine.com/wp-content/uploads/2018/07/pic3-2018_08_01.jpg"
+                src="https://pbs.twimg.com/media/DTLjzeYUMAA3wSd.jpg"
                 alt=""
               />
             </MDBAnimation>
@@ -163,7 +163,7 @@ const PageChange = props => {
                       id="reviews"
                       onChange={(e) => Setreviews(e.target.value)}
                     />
-                    <div className='text-center mt-4 ไเระำ-text'>
+                    <div className='text-center mt-4 wgite-text'>
                       <MDBBtn color="#00bfa5 teal accent-4" onClick={addEditshow}>Send</MDBBtn>
                     </div>
                   </MDBCardBody>

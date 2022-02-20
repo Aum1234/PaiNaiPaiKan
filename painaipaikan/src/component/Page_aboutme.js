@@ -34,8 +34,8 @@ const Aboutme = () => {
                 <MDBCol xl="10" md="11" size="10">
                   <h5 className="font-weight-bold mb-3">Personal information</h5>
                   <p className="grey-text">
-                    Name : Mr.Teeryut Saetee
-                    ID   : 6035512066
+                    Name : Lalida Ampharat
+                    62114440273
                 </p>
                 </MDBCol>
               </MDBRow>
@@ -46,9 +46,9 @@ const Aboutme = () => {
                 <MDBCol xl="10" md="11" size="10">
                   <h5 className="font-weight-bold mb-3">FOLLOW US</h5>
                   <p className="grey-text">
-                    <Button color="blue" size="sm" href="https://web.facebook.com/profile.php?id=100004905195568">Face Book</Button>
-                    <Button color="red" size="sm" href="https://mail.google.com/mail/u/1/#inbox">Mail</Button>
-                    <Button color="dark" size="sm" href="https://github.com/pdtry1998">github</Button>
+                    <Button color="blue" size="sm" href="https://www.facebook.com/lalida.ampharat">Face Book</Button>
+                    <Button color="red" size="sm" href="https://mail.google.com/mail/u/1/?ogbl#inbox">Mail</Button>
+                    <Button color="dark" size="sm" href="https://www.instagram.com/lalilali_____/">instagram</Button>
                   </p>
                 </MDBCol>
               </MDBRow>

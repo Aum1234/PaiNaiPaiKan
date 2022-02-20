@@ -17,37 +17,39 @@ const Bar = (props) => {
         <div id="classicformpage">
             <Carousel>
                 <Carousel.Item>
+                    <Carousel.Caption>
+                        <h3>ม่อนเคียงดาว จ.น่าน </h3>
+                        <p>กลางคืนเคียงดาว ตอนเช้าเคียงหมอก … ตกดึกมีดาวเต็มฟ้า ส่องแสงพร่างพราวเหมือนอยู่ใกล้เราแค่เอื้อมมือ  </p>
+                    </Carousel.Caption>
                     <img
                         className="d-block w-100"
-                        src="https://s359.kapook.com/pagebuilder/8c6127fd-cabb-4ca6-b386-8009327dcef7.jpg" alt="picture" width="150" height="800"
+                        src="https://pbs.twimg.com/media/DzHOsk4VAAAa6KC.jpg" alt="picture" width="150" height="600"
                         alt="First slide"
                     />
-                    <Carousel.Caption>
-                        <h3>เสม็ดนางชี </h3>
-                        <p>ตั้งอยู่ที่ ตำบล คลองเคียน อำเภอตะกั่วทุ่ง พังงา 82130 </p>
-                    </Carousel.Caption>
+
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://ภาพวิว.com/wp-content/uploads/2018/09/JBK-7.jpg" alt="picture" width="150" height="800"
+                        src="http://img.painaidii.com/images/20131206_6_1386320536_827909.jpg" alt="picture" width="150" height="600"
                         alt="Third slide"
                     />
 
                     <Carousel.Caption>
-                        <h3>วัดพระแก้ว</h3>
-                        <p>ตั้งอยู่ที่ ถนน หน้าพระลาน แขวง พระบรมมหาราชวัง เขตพระนคร กรุงเทพมหานคร 10200</p>
+                        <h3>วัดอโศการาม สมุทรปราการ</h3>
+                        <p>เป็นศาสนสถานที่มีความงดงามทางสถาปัตยกรรม โดยเฉพาะพระธุตังคเจดีย์ เจดีย์สีขาวขนาดใหญ่ เป็นปูชนียสถานประดิษฐานพระบรมสารีริธาตุ 
+                            เป็นอีกหนึ่งสถานที่ท่องเที่ยวยอดนิยม  และมีพุทธศาสนิกชนมาปฏิบัติวิปัสสนากรรมฐานกันมาก</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://pbs.twimg.com/media/DuBYYUFUcAAuBnC.jpg" alt="picture" width="150" height="800"
+                        src="https://pbs.twimg.com/media/DuBYYUFUcAAuBnC.jpg" alt="picture" width="150" height="600"
                         alt="Third slide"
                     />
                     <Carousel.Caption>
-                        <h3>ทุ่งทานตะวันเขาจีนแล</h3>
-                        <p>ตั้งอยู่ที่ ตำบลนิคมสร้างตนเอง อำเภอเมืองลพบุรี ลพบุรี 15000 </p>
+                        <h3>ทุ่งทานตะวันเขาจีนแล ลพบุรี</h3>
+                        <p>ทุ่งทานตะวัน ที่มีพื้นที่กว้างกว่า 355 ไร่ บรรยากาศของทุ่งทานตะวันสีเหลืองอร่ามนี้ ที่สวยงดงามมาก ก็เพราะว่ามีวิวด้านหลังเป็นภูเขารอบล้อม </p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

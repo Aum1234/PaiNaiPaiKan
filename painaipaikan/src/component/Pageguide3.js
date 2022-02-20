@@ -80,7 +80,7 @@ const Pageguide3 = () => {
                   <MDBView hover rounded className="z-depth-1-half mb-4">
                     <img
                       className="img-fluid"
-                      src="https://guide.pureriwater.com/wp-content/uploads/2019/04/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%992.jpg"
+                      src="https://www.chiangraicity.go.th/files/com_travel/2021-05_c1ab3ac263b72c7.jpg"
                       alt=""
                     />
                     <a href="#!">
